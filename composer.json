@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Jia En Low",
+        "email": "21024625@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
