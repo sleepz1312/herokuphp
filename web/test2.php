@@ -11,3 +11,5 @@
 <img alt="speech bubble icon" src="/etc.clientlibs/tp-web/clientlibs/clientlib-site/resources/images/chat-icon.png">
  
 <img alt="to the top icon" src="/etc.clientlibs/tp-web/clientlibs/clientlib-site/resources/images/to-top.png">
+
+<a href="https://www.tp.edu.sg/search.html" class="a.tp--header-search-icon" target="_self"><img src="/etc.clientlibs/tp-web/clientlibs/clientlib-site/resources/images/search-icon.png" alt=""></a>
